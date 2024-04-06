@@ -1,0 +1,2 @@
+# estudos
+ primeiros passos com git e git hub
